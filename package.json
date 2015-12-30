@@ -1,0 +1,18 @@
+{
+  "name": "compta",
+  "version": "1.0.0",
+  "description": "Outil d'analyse financiere de balance",
+  "main": "analyse.js",
+  "dependencies": {
+    "csv-parser": "^1.9.1",
+    "csv-write-stream": "^1.0.0",
+    "async": "^1.5.0",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "guillaume@bourdat.eu",
+  "license": "ISC"
+}
